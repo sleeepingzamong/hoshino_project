@@ -3,9 +3,8 @@ yaml
 안녕하세요! 저는 AI 개발자를 꿈꾸고 있는 **안강현**입니다. 
 
 ## 연락
-- [이메일](mailto:hong@example.com) 
-- 코딩 
-- 운동 
+- [이메일](mailto:dksrkdgusdksrkdgus@gmail.com) 
+- [git hub](https://github.com/sleeepingzamong)
 
 ## 연락처 
 [이메일 보내기](mailto:hong@example.com) 
